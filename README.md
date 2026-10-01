@@ -4,7 +4,7 @@
 
 :7:
 
-SOC // cybersecurity // Hacking //CTI
+SOC @ cybersecurity @ Hacking @ CTI
 
 <a href="https://ni5arga.com"><strong>website</strong></a> | <a href="https://x.com/Vigneshsai_"><strong>x (twitter)</strong></a> | <a href="saivigggu@proton.me"><strong>email</strong></a>
 

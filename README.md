@@ -5,7 +5,7 @@
 
 SOC @ cybersecurity @ Hacking @ CTI
 
-<a href="https://ni5arga.com"><strong>website</strong></a> | <a href="https://x.com/Vigneshsai_"><strong>x (twitter)</strong></a> | <a href="saivigggu@proton.me"><strong>email</strong></a>
+<a href="https://vigneshsai7.github.io/vigneshsai/"><strong>website</strong></a> | <a href="https://x.com/Vigneshsai_"><strong>x (twitter)</strong></a> | <a href="saivigggu@proton.me"><strong>email</strong></a>
 
 </samp>
 

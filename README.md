@@ -1,7 +1,7 @@
 [![Vignesh's Banner](https://github.com/user-attachments/assets/769dcdba-e9c4-4fbb-a12d-1113647373bf)](https://vigneshsai7.github.io/vigneshsai/)
 <samp>
 
-:7:
+:3:
 
 SOC @ cybersecurity @ Hacking @ CTI
 

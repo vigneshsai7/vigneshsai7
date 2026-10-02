@@ -1,4 +1,4 @@
-[<img width="1856" height="576" alt="logo_Banner" src="https://github.com/user-attachments/assets/43d1661a-64e3-4dc9-9a88-b23bea79d5e0" />](https://ni5arga.com)
+[<img width="1856" height="576" alt="logo_Banner" src="https://github.com/user-attachments/assets/43d1661a-64e3-4dc9-9a88-b23bea79d5e0" />]([https://ni5arga.com](https://vigneshsai7.github.io/vigneshsai/))
 
 <samp>
 

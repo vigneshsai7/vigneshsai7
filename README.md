@@ -1,5 +1,4 @@
-[<img width="1856" height="576" alt="logo_Banner" src="https://github.com/user-attachments/assets/43d1661a-64e3-4dc9-9a88-b23bea79d5e0" />]([https://ni5arga.com]
-
+[![Vignesh's Banner](https://github.com/user-attachments/assets/769dcdba-e9c4-4fbb-a12d-1113647373bf)](https://vigneshsai7.github.io/vigneshsai/)
 <samp>
 
 :7:
